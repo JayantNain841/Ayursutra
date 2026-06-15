@@ -1,5 +1,26 @@
-# AyurSutra - Ayurvedic Wellness Platform
+# AyurSutra 🌿
 
+An Ayurvedic wellness platform that helps users discover personalized remedies,
+herbs, and wellness routines based on traditional Ayurvedic principles.
+
+**Live Demo:** https://ayursutra-nine.vercel.app
+
+## Features
+- User authentication with Firebase (email + Google login)
+- Personalized wellness recommendations
+- Herb and remedy database
+- Responsive UI with modern design
+
+## Tech Stack
+Next.js · TypeScript · Firebase · Tailwind CSS · Vercel
+
+## Getting Started
+```bash
+git clone https://github.com/JayantNain841/Ayursutra.git
+cd Ayursutra
+npm install
+npm run dev
+```
 ## Firebase Setup Instructions
 
 To enable real email verification and authentication, you need to set up Firebase:
